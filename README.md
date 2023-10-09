@@ -1,7 +1,7 @@
 # ddos-cloudflare_maximka 
 Інсталяція:
 1. sudo apt install nodejs npm
-2. cd cfb-nodejs
+2. cd nodejs-ddos
 3. npm install cloudscraper randomstring request
 
 Запуск:
